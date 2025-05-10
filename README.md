@@ -5,15 +5,6 @@
 👨‍💻 ***About me***
 
 I am a web developer, currently I am expanding my knowledge in both front-end and back-end development at Riwi, and I work as freelancer developer creating dynamic, optimized web applications. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Python 
-  - Java
-- ​👬🏻​ I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside of tech, I enjoy playing video games 🎮, listening to music 🎵, and cooking 👨‍🍳.
-- 📫 Reach out to me at: <a href="bernalandres427@gmail.com">bernalandres427@gmail.com</a>
-
-
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
