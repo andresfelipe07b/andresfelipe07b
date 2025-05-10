@@ -54,8 +54,8 @@ I am a web developer, currently I am expanding my knowledge in both front-end an
 <h2>Github stats:</h2> 
 
 <div style="display: flex; flex-direction: row;" align="center">
-<img class="img" height="50%" src="https://github-readme-stats.vercel.app/api?username=andresfelipe07b&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-<img class="img" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=andresfelipe07b&theme=tokyonight&hide_border=true" />
+<img class="img" height="170cm" src="https://github-readme-stats.vercel.app/api?username=andresfelipe07b&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+<img class="img" height="170cm" src="https://github-readme-streak-stats.herokuapp.com/?user=andresfelipe07b&theme=tokyonight&hide_border=true" />
 </div>
 
 
