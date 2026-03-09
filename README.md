@@ -2,7 +2,9 @@
 
 👨‍💻 ***About me***
 
-I am a web developer, currently I am expanding my knowledge in both front-end and back-end development at Riwi, and I work as freelancer developer creating dynamic, optimized web applications. I love to learn and build something new, productive, innovative and creative.
+Web Developer with more than two years of experience designing and developing dynamic, efficient, and scalable web applications. Skilled in building reliable solutions across both front-end and back-end environments, with a strong focus on performance, usability, and maintainability.
+
+A proactive and creative professional who enjoys solving complex problems and designing efficient systems. Experienced working in collaborative teams using agile methodologies and modern development workflows to deliver high-quality software solutions.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
